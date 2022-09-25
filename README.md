@@ -1,2 +1,2 @@
 # labredes
-Repositorio de arquivos da disciplina INF1677 - Laboratorio de Redes
+Repositorio de arquivos da disciplina INF16777 - Laboratorio de Redes
